@@ -77,4 +77,4 @@ This project showcases the capability of Microsoft Excel as a powerful tool for 
 [View on GitHub](https://github.com/chaitanyasatpute11/Vrinda-Store-Data-Analysis-Excel)
 
 ## 📥 Download Project  
-[Download Excel File](https://github.com/chaitanyasatpute11/Vrinda-Store-Data-Analysis-Excel/blob/main/Vrinda-Store-Data-Analysis-Excel.xlsx)
+[Download Excel File](https://github.com/chaitanyasatpute11/Vrinda-Store-Data-Analysis-Excel/raw/main/Vrinda%20Store%20Data%20Analysis%20(1).xlsx)
