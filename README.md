@@ -73,6 +73,6 @@ This dashboard provides a clear and structured view of business performance, hel
 
 This project showcases the capability of Microsoft Excel as a powerful tool for data analysis and visualization. It highlights how structured dashboards can simplify complex datasets into actionable insights.
 
-## 📥 Download Project  
-You can download the dataset and dashboard from here:  
-[Download Excel File](./Vrinda%20Store%20Data%20Analysis.xlsx)
+## 🔗 Project Link  
+GitHub Repository:  
+https://github.com/your-username/vrinda-store-sales-analysis
